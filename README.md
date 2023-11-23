@@ -42,6 +42,12 @@ diminishing accuracy.
 
 ![image](https://github.com/karthikziffer/Federated-Learning-Driver-Profile-Identification/assets/24503303/d43293f0-84f2-4105-8047-d6161fc5346b)
 
+
+## Data Preprocessing
+
+
+![image](https://github.com/karthikziffer/Federated-Learning-Driver-Profile-Identification/assets/24503303/40dbbf0b-4359-4a26-827c-198c131ee0f7)
+
 ## Model Architecture
 
 ![image](https://github.com/karthikziffer/Federated-Learning-Driver-Profile-Identification/assets/24503303/b15a52a1-99a8-4acc-a363-56d4ce342301)
