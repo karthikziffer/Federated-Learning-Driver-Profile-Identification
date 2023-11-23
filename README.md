@@ -5,7 +5,6 @@
 
 
 
-![image](https://media.github.tik.uni-stuttgart.de/user/3542/files/40e83606-3c0b-4c9e-84df-d31b4164aad2)
 
 
 
