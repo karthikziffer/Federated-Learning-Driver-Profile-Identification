@@ -42,4 +42,14 @@ diminishing accuracy.
 
 
 
-The concept of Differentially Private Stochastic gradient descent is based on the core idea of Differential Privacy where a user’s data is masked but the mechanism is approximately same. Because of this mechanism, the privacy guarantees that limit the ability of an attacker to distinguish whether a particular individual’s data was included or excluded in the dataset. 
+## Execution
+
+- Command to run the server docker container
+  
+![image](https://github.com/karthikziffer/Federated-Learning-Driver-Profile-Identification/assets/24503303/a46100c9-dff0-497e-971e-6a9d5733bacb)
+
+- Command to run the client's docker container
+
+![image](https://github.com/karthikziffer/Federated-Learning-Driver-Profile-Identification/assets/24503303/d594dd93-50ea-494a-b280-44ef94533585)
+
+
