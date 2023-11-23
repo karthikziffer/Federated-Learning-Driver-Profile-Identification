@@ -38,11 +38,14 @@ diminishing accuracy.
 ![image](https://media.github.tik.uni-stuttgart.de/user/3542/files/8cad1fd3-7e32-44d7-b2ad-a0111c112eb5)
 
 
+## Model Architecture
+
+![image](https://github.com/karthikziffer/Federated-Learning-Driver-Profile-Identification/assets/24503303/b15a52a1-99a8-4acc-a363-56d4ce342301)
 
 
 
 
-## Execution
+## Execution commands
 
 - Command to run the server docker container
   
