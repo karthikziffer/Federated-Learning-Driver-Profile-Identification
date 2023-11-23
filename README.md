@@ -37,6 +37,10 @@ diminishing accuracy.
 
 ![image](https://media.github.tik.uni-stuttgart.de/user/3542/files/8cad1fd3-7e32-44d7-b2ad-a0111c112eb5)
 
+## Hardware System Architecture
+
+
+![image](https://github.com/karthikziffer/Federated-Learning-Driver-Profile-Identification/assets/24503303/d43293f0-84f2-4105-8047-d6161fc5346b)
 
 ## Model Architecture
 
