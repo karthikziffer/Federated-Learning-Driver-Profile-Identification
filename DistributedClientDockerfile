@@ -1,0 +1,18 @@
+FROM arm64v8/python:3.10.12
+
+WORKDIR /usr/src/app
+
+#COPY . .
+
+#VOLUME .
+#WORKDIR /usr/src/app/Drive-Profile-Classification/
+
+RUN apt-get update && apt-get install -y python3-pip
+
+RUN pwd && ls
+
+COPY ./requirements.txt .
+
+RUN pip install -r requirements.txt
+
+ENTRYPOINT ["python", "distributed_client.py"]
